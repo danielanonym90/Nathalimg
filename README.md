@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Nathali Magalhães
+# 👩🏻‍💻 Daniel Nathan
 
 **`Desenvolvedora FullStack`**
 

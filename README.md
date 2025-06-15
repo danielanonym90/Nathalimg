@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Daniel Nathan
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Daniel Nathan, tenho 18 anos e sou natural de Fortaleza. Estou concluindo o ensino médio na escola EEMTI Lions Jangada, cursando full-stack. Sou apaixonado por tecnologia e estou sempre aprendendo e desenvolvendo novos projetos
 
